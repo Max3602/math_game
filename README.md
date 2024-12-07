@@ -25,7 +25,7 @@
 
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/your-repository-link
+   git clone https://github.com/Max3602/math_game
    ```
 2. Перейдите в папку проекта:
    ```bash
