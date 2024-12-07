@@ -60,15 +60,6 @@
 - `main.py` — основной файл для запуска игры.
 - `math_game_data.json` — файл для хранения данных (темы, классы, примеры).
 - `README.md` — документация проекта.
-- `requirements.txt` — зависимости (если применимо).
-
-## Пример работы
-
-- Главный экран:
-  ![Главное меню](https://via.placeholder.com/600x400)
-
-- Экран игрового процесса:
-  ![Игровой процесс](https://via.placeholder.com/600x400)
 
 ## Вклад
 
@@ -81,5 +72,4 @@
 ## Контакты
 
 Если у вас есть вопросы, пожалуйста, свяжитесь со мной:
-- Email: your-email@example.com
-- GitHub: [your-profile](https://github.com/your-profile)
+- GitHub: [Max3602](https://github.com/Max3602/math_game)
